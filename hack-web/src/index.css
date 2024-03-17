@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+}
+html,
+body,
+#root {
+  height: 100%;
+  background: #29250e;
+}
+
+::-webkit-scrollbar {
+  width: 13px;
+}
+
+::-webkit-scrollbar-thumb {
+  margin: 0 0 0 1rem;
+  border-radius: 8px;
+  border: 3px solid transparent;
+  background-clip: content-box;
+  border-radius: 50px;
+background: #603f12;
+box-shadow:  20px 20px 60px #524a0f,
+             -20px -20px 60px #6e4d15;
+}
