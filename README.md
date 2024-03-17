@@ -9,7 +9,7 @@ APK Link - https://drive.google.com/file/d/12T0jrA5-vqmJYGayfvTaeRUPXMmd_jkx/vie
 Tired of traditional learning? Buckle up for Q-Learn, a groundbreaking 3D virtual platform that makes learning an engaging adventure! Designed for students, Q-Learn ignites a passion for knowledge through gamified experiences and a vibrant multiplayer environment.
 Q-Learn gamifies education in a stunning 3D world! Explore learning rooms for ML, web dev, and game dev, all with chatbots, websites, and videos. Master quizzes in the shopping room to earn points and buy cool in-game items. Real-time chat lets you connect with fellow students, all within the seamless 3D environment. Dive in and Q-Learn!
 
-# PROBLEMs
+# PROBLEMS
 
 Passivity and boredom: Lectures, textbooks, and rote memorization can feel passive and fail to ignite a genuine interest in the subject matter.
 
@@ -19,7 +19,7 @@ Difficulties in motivation: Traditional methods often lack inherent rewards or g
 
 Limited accessibility of resources: Students may not have easy access to a variety of engaging learning materials, such as interactive websites, video tutorials, and personalized assistance.
 
-# SOLUTIONs
+# SOLUTIONS
 
 Active engagement: Through gamification, exploration, and interactive elements, Q-Learn seeks to make learning exciting and enjoyable.
 
@@ -48,7 +48,7 @@ Multiplayer
 
 Chat System
 
-3d-vISUALISATION
+3d-VISUALISATION
 
 CHAT BOTS
 
